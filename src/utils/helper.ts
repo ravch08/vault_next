@@ -1,0 +1,55 @@
+export { default as Logo } from "../assets/payment-solutions-logo.webp";
+export { default as Team1 } from "../assets/payment-solutions-team1.webp";
+export { default as Team2 } from "../assets/payment-solutions-team2.webp";
+export { default as Team3 } from "../assets/payment-solutions-team3.webp";
+export { default as Team4 } from "../assets/payment-solutions-team4.webp";
+
+export { default as TestClient1 } from "../assets/payment-solutions-face1.webp";
+export { default as TestClient2 } from "../assets/payment-solutions-face2.webp";
+export { default as TestClient3 } from "../assets/payment-solutions-face3.webp";
+export { default as TestClient4 } from "../assets/payment-solutions-face4.webp";
+export { default as TestClient5 } from "../assets/payment-solutions-face5.webp";
+export { default as Client1 } from "../assets/payment-solutions-logo-1.webp";
+export { default as Client2 } from "../assets/payment-solutions-logo-2.webp";
+export { default as Client3 } from "../assets/payment-solutions-logo-3.webp";
+export { default as Client4 } from "../assets/payment-solutions-logo-4.webp";
+export { default as Client5 } from "../assets/payment-solutions-logo-5.webp";
+export { default as Client6 } from "../assets/payment-solutions-logo-6.webp";
+
+export { default as BalanceCard } from "../assets/payment-solutions-balance-card.webp";
+export { default as VirtualCard2 } from "../assets/payment-solutions-balance-money-card.webp";
+export { default as CreditCard } from "../assets/payment-solutions-credit-card.webp";
+export { default as Customer } from "../assets/payment-solutions-customer.webp";
+export { default as VirtualCard3 } from "../assets/payment-solutions-received-money-card.webp";
+export { default as VirtualCard1 } from "../assets/payment-solutions-spending-breakdown-card.webp";
+export { default as TransactionCard } from "../assets/payment-solutions-transactions-card.webp";
+export { default as VisaCard } from "../assets/payment-solutions-visa-card.webp";
+export { default as WorkerCard } from "../assets/payment-solutions-worker-card.webp";
+
+export { default as Button } from "../components/features/Button";
+export { default as ContactForm } from "../components/features/ContactForm";
+export { default as FeatureItem } from "../components/features/FeatureItem";
+export { default as Loader } from "../components/features/Loader";
+export { default as Location } from "../components/features/Location";
+export { default as Navbar } from "../components/features/Navbar";
+export { default as PageBanner } from "../components/features/PageBanner";
+export { default as Rating } from "../components/features/Rating";
+export { default as ScrollToTop } from "../components/features/ScrollToTop";
+export { default as Sidebar } from "../components/features/Sidebar";
+export { default as SocialLinks } from "../components/features/SocialLinks";
+export { default as TeamItem } from "../components/features/TeamItem";
+export { default as TestimonialItem } from "../components/features/TestimonialItem";
+export { default as WhyItem } from "../components/features/WhyItem";
+
+export { default as AboutInfo } from "../components/sections/AboutInfo";
+export { default as Banner } from "../components/sections/Banner";
+export { default as Billing } from "../components/sections/Billing";
+export { default as Clients } from "../components/sections/Clients";
+export { default as Counter } from "../components/sections/Counter";
+export { default as Features } from "../components/sections/Features";
+export { default as Footer } from "../components/sections/Footer";
+export { default as Header } from "../components/sections/Header";
+export { default as Teams } from "../components/sections/Teams";
+export { default as Testimonials } from "../components/sections/Testimonials";
+export { default as VirtualCards } from "../components/sections/VirtualCards";
+export { default as WhyVault } from "../components/sections/WhyVault";
